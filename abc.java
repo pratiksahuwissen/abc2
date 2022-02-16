@@ -1,0 +1,1 @@
+publc statuc void main(){}
