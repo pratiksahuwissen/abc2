@@ -1,1 +1,1 @@
-publc statuc void main(){}
+publc statuc void main(String[] args){}
